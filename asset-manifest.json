@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.367cb1b0.css",
+    "main.js": "/shopping-cart/static/js/main.48b1c99e.js",
+    "static/js/787.d6fe38e8.chunk.js": "/shopping-cart/static/js/787.d6fe38e8.chunk.js",
+    "static/media/rolex_distributor.jpg": "/shopping-cart/static/media/rolex_distributor.ba2b50d967c3fb493c53.jpg",
+    "index.html": "/shopping-cart/index.html",
+    "main.367cb1b0.css.map": "/shopping-cart/static/css/main.367cb1b0.css.map",
+    "main.48b1c99e.js.map": "/shopping-cart/static/js/main.48b1c99e.js.map",
+    "787.d6fe38e8.chunk.js.map": "/shopping-cart/static/js/787.d6fe38e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.367cb1b0.css",
+    "static/js/main.48b1c99e.js"
+  ]
+}
